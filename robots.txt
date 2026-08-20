@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-7is9lc.yoursingles.online/sitemap.xml
